@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Contacts_List/',   // 👈 repo ka exact naam
+  base: '/react-projects/',   // 👈 repo ka exact naam
 })
